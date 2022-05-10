@@ -1,0 +1,9 @@
+[submodule "manager"]
+	path = manager
+	url = https://github.com/TechDudie/manager.git
+[submodule "GitRipoff"]
+	path = GitRipoff
+	url = https://github.com/TechDudie/GitRipoff.git
+[submodule "TechEditOfficial"]
+	path = TechEditOfficial
+	url = https://github.com/TechDudie/TechEditOfficial.git
